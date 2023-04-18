@@ -8,7 +8,7 @@
 
 📫 How to reach me @chaneeshetu93@gmail.com
 
-Twitter 
+
 
 <!---
 chandem/chandem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
