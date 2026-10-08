@@ -1,8 +1,6 @@
 👋 Hi, I’m Chane Eshetu 
 
-👀 I’m interested in learning about AI
-
-🌱 I’m currently learning at Alx Holborton 
+👀 I’m interested in learning about AI 
 
 💞️ I’m looking to collaborate on AI 
 
